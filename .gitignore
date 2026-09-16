@@ -1,6 +1,10 @@
+.states
+assets/external/
 *.db
 *.py[cod]
 .venv
 .web
 __pycache__/
 public/
+.npm_patch.js
+reflex.lock/
