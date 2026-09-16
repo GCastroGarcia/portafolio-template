@@ -1,0 +1,12 @@
+/* Ocultar notificaciones toast (error de websocket de Reflex) */
+[data-sonner-toaster],
+[data-sonner-toast],
+li[data-sonner-toast] {
+    display: none !important;
+}
+
+/* Ocultar el overlay e icono de desconexión (LucideWifiOff) */
+div[title^="Connection Error"],
+div[title*="websocket error"] {
+    display: none !important;
+}

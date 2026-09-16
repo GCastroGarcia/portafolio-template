@@ -1,4 +1,5 @@
 from enum import Enum
+# pyrefly: ignore [missing-import]
 import reflex as rx
 
 MAX_WIDTH = "900px"
@@ -20,7 +21,8 @@ class Size(Enum):
 
 
 STYLESHEETS = [
-    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css",
+    "/styles.css"
 ]
 
 BASE_STYLE = {
