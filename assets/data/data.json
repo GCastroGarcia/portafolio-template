@@ -1,8 +1,8 @@
 {
     "title": "Gianmarco J. Castro | Portafolio",
     "description": "Soy Gianmarco J. Castro, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
+    "image": "/assets/WhatsApp Image 2026-09-16 at 12.59.37 AM.jpeg",
+    "avatar": "/assets/WhatsApp Image 2026-09-16 at 12.59.37 AM.jpeg",
     "name": "Gianmarco J. Castro",
     "skill": "Estudiante de Ingenieria de Sistemas",
     "location": "Lima - Peru",
@@ -48,9 +48,7 @@
             "date": "2023 - Actualidad"
         }
     ],
-    "projects": [
-
-    ],
+    "projects": [],
     "training": [
         {
             "icon": "backpack",
@@ -70,5 +68,4 @@
         }
     ],
     "extras": {}
-
 }
