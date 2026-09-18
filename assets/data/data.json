@@ -67,5 +67,12 @@
             "certificate": ""
         }
     ],
-    "extras": {}
+    "extras": [
+        {
+            "image": "/Extra1.jpeg",
+            "title": "Certificado en SQL",
+            "description": "Certificado de midudev de SQL",
+            "url": "https://www.aprendesql.dev/certificado/8872d016-ba41-4612-8b68-9e1f9e1259fa"
+        }
+    ]
 }
